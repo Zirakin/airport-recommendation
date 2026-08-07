@@ -11,7 +11,8 @@ NodeRadar 整理了当前常见机场的套餐价格、流量、线路、设备�
 ## 省流推荐
 
 - **性价比首选：**[Flybit机场](#flybit)
-- **按量付费：**[Flybit机场](#flybit) / [飞鸟云](#feiniaoyun) / [魔戒](#mojie)
+- **高端首选：**[WgetCloud](#wgetcloud)
+- **按量付费：**[Flybit机场](#flybit) / [飞鸟云](#feiniaoyun) / [极速云机场](#jisu-cloud) / [魔戒](#mojie)
 
 ## 当前综合排名
 
@@ -19,16 +20,16 @@ NodeRadar 整理了当前常见机场的套餐价格、流量、线路、设备�
 |---:|---|---:|---:|---|
 | 1 | [Flybit机场](#flybit) | 9.20 | ¥15 | IEPL 专线、月付与不限时套餐、不限设备 |
 | 2 | [飞鸟云](#feiniaoyun) | 9.12 | ¥1 | 低价周期套餐、按量流量包、Hysteria2 |
-| 3 | [极速云机场](#jisu-cloud) | 9.06 | ¥15.99 | 中转与直连、大流量、流媒体与 AI 支持 |
-| 4 | [魔戒](#mojie) | 8.98 | ¥1 | 按量计费、不限时流量、无倍率 |
-| 5 | [CyberGuard机场](#cyberguard) | 8.92 | ¥32 | IEPL/BGP、月付与不限时、AI 与流媒体 |
-| 6 | [Now加速](#now-speed) | 8.85 | ¥10 | IEPL/CN2、多地区、常见客户端支持 |
+| 3 | [WgetCloud](#wgetcloud) | 9.08 | ¥99 | 老牌精品专线、价格很贵、新用户 85 折 |
+| 4 | [极速云机场](#jisu-cloud) | 9.06 | ¥15.99 | 中转与直连、大流量、流媒体与 AI 支持 |
+| 5 | [魔戒](#mojie) | 8.98 | ¥1 | 按量计费、不限时流量、无倍率 |
+| 6 | [CyberGuard机场](#cyberguard) | 8.92 | ¥32 | IEPL/BGP、月付与不限时、AI 与流媒体 |
 | 7 | [迅达 VPN](#xunda-vpn) | 8.82 | ¥15 | 多客户端、工单支持、基础使用稳定 |
-| 8 | [自由猫](#freecat) | 8.78 | ¥6 | 低价套餐、多地区、不限时流量包 |
-| 9 | [万达云](#wanda-cloud) | 8.70 | ¥16.8 | IEPL、住宅 IP、多个专项套餐 |
-| 10 | [秒秒云](#miaomiao-cloud) | 8.63 | ¥14 | 低门槛、多档套餐、流媒体与 GPT 支持 |
-| 11 | [瞬云](#shunyun) | 8.55 | ¥20 | ANYCAST、原生 IP、不限时套餐 |
-| 12 | [大哥云](#dage-cloud) | 8.38 | ¥19.9 | Trojan、IPLC、免费试用 |
+| 8 | [万达云](#wanda-cloud) | 8.76 | ¥16.8 | IEPL、住宅 IP、多个专项套餐 |
+| 9 | [Now加速](#now-speed) | 8.70 | ¥10 | IEPL/CN2、多地区、常见客户端支持 |
+| 10 | [自由猫](#freecat) | 8.62 | ¥6 | 低价套餐、多地区、不限时流量包 |
+| 11 | [大哥云](#dage-cloud) | 8.48 | ¥19.9 | Trojan、IPLC、免费试用 |
+| 12 | [秒秒云](#miaomiao-cloud) | 8.40 | ¥14 | 低门槛、多档套餐、流媒体与 GPT 支持 |
 
 ---
 
@@ -93,9 +94,37 @@ Flybit机场目前排在综合榜第一，也是当前的性价比首选。它�
 
 ---
 
+<a id="wgetcloud"></a>
+
+## 3. WgetCloud：价格很贵，但老牌且特别好用
+
+<img width="1024" height="434" alt="image" src="https://github.com/user-attachments/assets/03ca39aa-d164-484b-9e73-96633d816774" />
+
+- 老牌中高端机场
+- IEPL/IPLC 精品专线与全球 29 个节点
+- 个人套餐 ¥99/月起，可以按月购买
+- 全球流媒体与 ChatGPT、Claude 等 AI 工具支持
+- 新用户可享 85 折
+
+WgetCloud 是当前的高端首选。它的个人套餐价格明显偏贵，基础、优质和精品专线分别为 99 元、109 元和 119 元每月，但可以一个月一个月购买，不是只能季付。它更适合愿意为线路、稳定性、节点覆盖和成熟度支付更高预算的用户。
+
+注册或首次登录 WgetCloud 时需要设置 2FA 双重验证，建议提前安装 Microsoft Authenticator，扫描页面二维码后填写动态验证码，并妥善保存恢复信息。
+
+**代表套餐：**
+
+- 基础专线服务：¥99/月，230GB/月，200Mbps，15 个基础节点。
+- 优质专线服务：¥109/月，250GB/月，300Mbps，15 个优质节点。
+- 精品专线服务：¥119/月，270GB/月，500Mbps，覆盖全球五大洲 29 个节点。
+
+**适合人群：**预算充足、重视老牌服务、专线稳定性、全球节点、流媒体和 AI 工具支持，并且能够接受明显高于普通机场价格的用户。
+
+[![访问 WgetCloud 官网](https://img.shields.io/badge/访问官网-新用户85折-C4472D?style=for-the-badge)](https://invite.wgetcloud.ltd/auth/register?code=aPjuiy)
+
+---
+
 <a id="jisu-cloud"></a>
 
-## 3. 极速云机场：优质量大
+## 4. 极速云机场：优质量大
 
 <img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/a5e92a05-c7f8-419e-8476-b33dfbff9e1f" />
 
@@ -105,7 +134,7 @@ Flybit机场目前排在综合榜第一，也是当前的性价比首选。它�
 - GPT、Netflix 与 TikTok 支持
 - Telegram、客服机器人和工单系统
 
-极速云机场是当前的高端首选。它提供月付、年付特惠和不限时流量方案，套餐覆盖范围较大，设备数量会随档位增加。公开资料中同时收录了中转与直连节点、流媒体与 AI 工具支持，以及相对完整的售后渠道。
+极速云机场是高端与大流量选择之一。它提供月付、年付特惠和不限时流量方案，套餐覆盖范围较大，设备数量会随档位增加。公开资料中同时收录了中转与直连节点、流媒体与 AI 工具支持，以及相对完整的售后渠道。
 
 需要特别注意的是，当前套餐页面标注节点为 6 倍倍率。页面显示的 1200GB 并不等于 1200GB 实际可传输流量，应按照倍率折算。例如 1200GB 标称流量折合约 200GB。
 
@@ -127,7 +156,7 @@ Flybit机场目前排在综合榜第一，也是当前的性价比首选。它�
 
 <a id="mojie"></a>
 
-## 4. 魔戒：不限时按量付费首选之一
+## 5. 魔戒：不限时按量付费首选之一
 
 <img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/a6b83808-9b35-4316-b157-efe34a4c19ef" />
 
@@ -158,7 +187,7 @@ Flybit机场目前排在综合榜第一，也是当前的性价比首选。它�
 
 <a id="cyberguard"></a>
 
-## 5. CyberGuard机场：IEPL、BGP 与不限时套餐
+## 6. CyberGuard机场：IEPL、BGP 与不限时套餐
 
 <img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/a6e70c58-38c7-4bcf-a0ac-53f698115cfc" />
 
@@ -183,36 +212,6 @@ CyberGuard机场提供轻量、标准、高速和企业周期套餐，同时提�
 **适合人群：**希望同时比较月付与不限时套餐，并关注 IEPL、BGP、流媒体和 AI 工具支持的用户。
 
 [![访问 CyberGuard机场官网](https://img.shields.io/badge/访问官网-立即注册-C4472D?style=for-the-badge)](https://www.cyberguard.best/#/register?code=zuxENBFF)
-
----
-
-<a id="now-speed"></a>
-
-## 6. Now加速：线路、地区与客户端信息完整
-
-<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/d20d60ab-4176-4fce-80a0-8a2529c19d72" />
-
-
-- IEPL/CN2 线路
-- 香港、台湾、日本、新加坡和美国等地区
-- 支持常见客户端与自建客户端
-- 支持微信、支付宝和 USDT
-
-Now加速的线路、节点、客户端、支付方式和公开监测信息相对完整，适合希望兼顾日常浏览、流媒体和 AI 工具访问的用户。高档套餐提供更多专线节点、低倍率线路、原生家宽和专享优化。
-
-当前 30 天参考记录为可用率 100%、平均延迟约 40.21ms、丢包率 0%。A1 套餐节点较少，也不赠送低倍率线路，主要适合轻量使用。
-
-**代表套餐：**
-
-- A1 轻量订阅：¥10/月，30GB/月，2 台设备。
-- A2 进阶订阅：¥20/月，100GB/月，8 台设备。
-- A3 高级订阅：¥30/月，200GB/月，16 台设备。
-- A4 专业订阅：¥50/月，400GB/月，16 台设备。
-- A8 领航订阅：¥100/月，800GB/月，16 台设备。
-
-**适合人群：**希望套餐、节点地区、客户端、支付方式和售后信息比较完整的用户。
-
-[![访问 Now加速官网](https://img.shields.io/badge/访问官网-立即注册-C4472D?style=for-the-badge)](https://www.noww.cc/#/register?code=x82GNvKl)
 
 ---
 
@@ -243,9 +242,69 @@ Now加速的线路、节点、客户端、支付方式和公开监测信息相�
 
 ---
 
+<a id="wanda-cloud"></a>
+
+## 8. 万达云：常规专线与专项套餐
+
+<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/4369b351-2b71-46fd-a238-dceef3c81565" />
+
+
+- 中转与 IEPL 专线
+- 住宅 IP 和流媒体支持
+- 新疆 IPv6 专项套餐
+- TikTok 优化与长效流量方案
+
+万达云提供 150GB 至 1200GB 的常规月付套餐，另有新疆 IPv6、TikTok 优化和长效流量方案。不同套餐在线路、设备数量和适用场景方面差异较大，适合需求比较明确、愿意逐项核对套餐条件的用户。
+
+当前 30 天参考记录为可用率 100%、平均延迟约 46ms、丢包率 0%。线路和解锁参数主要来自服务页面，不能代表所有地区的实际体验。
+
+**代表套餐：**
+
+- 150G 全中转：¥16.8/月，150GB，5 台设备。
+- 300G 全专线：¥28.8/月，300GB，10 台设备。
+- 600G 全专线：¥48/月，600GB，50 台设备。
+- 1200G 全专线：¥92.8/月，1200GB，50 台设备。
+- 新疆专用：¥36/月，300GB，IPv6 专属中转。
+
+**适合人群：**需要 IEPL、住宅 IP、TikTok 优化或新疆专项线路的用户。
+
+[![访问万达云官网](https://img.shields.io/badge/访问官网-立即注册-C4472D?style=for-the-badge)](https://link.wdyserver.com/register?code=lnkL7gDz)
+
+---
+
+<a id="now-speed"></a>
+
+## 9. Now加速：线路、地区与客户端信息完整
+
+<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/d20d60ab-4176-4fce-80a0-8a2529c19d72" />
+
+
+- IEPL/CN2 线路
+- 香港、台湾、日本、新加坡和美国等地区
+- 支持常见客户端与自建客户端
+- 支持微信、支付宝和 USDT
+
+Now加速的线路、节点、客户端、支付方式和公开监测信息相对完整，适合希望兼顾日常浏览、流媒体和 AI 工具访问的用户。高档套餐提供更多专线节点、低倍率线路、原生家宽和专享优化。
+
+当前 30 天参考记录为可用率 100%、平均延迟约 40.21ms、丢包率 0%。A1 套餐节点较少，也不赠送低倍率线路，主要适合轻量使用。
+
+**代表套餐：**
+
+- A1 轻量订阅：¥10/月，30GB/月，2 台设备。
+- A2 进阶订阅：¥20/月，100GB/月，8 台设备。
+- A3 高级订阅：¥30/月，200GB/月，16 台设备。
+- A4 专业订阅：¥50/月，400GB/月，16 台设备。
+- A8 领航订阅：¥100/月，800GB/月，16 台设备。
+
+**适合人群：**希望套餐、节点地区、客户端、支付方式和售后信息比较完整的用户。
+
+[![访问 Now加速官网](https://img.shields.io/badge/访问官网-立即注册-C4472D?style=for-the-badge)](https://www.noww.cc/#/register?code=x82GNvKl)
+
+---
+
 <a id="freecat"></a>
 
-## 8. 自由猫：低价月付与大容量不限时套餐
+## 10. 自由猫：低价月付与大容量不限时套餐
 
 <img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/0f18adef-25b3-410b-89a5-749ceecd847a" />
 
@@ -274,39 +333,39 @@ Now加速的线路、节点、客户端、支付方式和公开监测信息相�
 
 ---
 
-<a id="wanda-cloud"></a>
+<a id="dage-cloud"></a>
 
-## 9. 万达云：常规专线与专项套餐
+## 11. 大哥云：Trojan、IPLC 与免费试用
 
-<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/4369b351-2b71-46fd-a238-dceef3c81565" />
+<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/b5130ef6-5fad-4e61-b476-ab49955da0cb" />
 
 
-- 中转与 IEPL 专线
-- 住宅 IP 和流媒体支持
-- 新疆 IPv6 专项套餐
-- TikTok 优化与长效流量方案
+- 页面标注运营约 5 年
+- 提供免费试用
+- Trojan 协议与 IPLC 线路
+- 500Mbps 和 1000Mbps 套餐档位
 
-万达云提供 150GB 至 1200GB 的常规月付套餐，另有新疆 IPv6、TikTok 优化和长效流量方案。不同套餐在线路、设备数量和适用场景方面差异较大，适合需求比较明确、愿意逐项核对套餐条件的用户。
+大哥云的公开资料标注运营约 5 年并提供免费试用，套餐覆盖月付、季付和年付。页面同时标注支持 IPLC、Netflix、YouTube 8K、ChatGPT、Claude 和 Gemini，适合希望先试用再决定是否购买的用户。
 
-当前 30 天参考记录为可用率 100%、平均延迟约 46ms、丢包率 0%。线路和解锁参数主要来自服务页面，不能代表所有地区的实际体验。
+当前没有收录不限时或一次性流量包。VIP1 年付套餐虽然总价较低，但每月只有 15GB，购买前需要确认流量是否足够。完整节点地区、设备数量和退款条件也应以下单页面为准。
 
 **代表套餐：**
 
-- 150G 全中转：¥16.8/月，150GB，5 台设备。
-- 300G 全专线：¥28.8/月，300GB，10 台设备。
-- 600G 全专线：¥48/月，600GB，50 台设备。
-- 1200G 全专线：¥92.8/月，1200GB，50 台设备。
-- 新疆专用：¥36/月，300GB，IPv6 专属中转。
+- 单月套餐 A：¥19.9/月，100GB/月，500Mbps。
+- 单月套餐 B：¥29.9/月，150GB/月，500Mbps。
+- 季付套餐 A：¥69/季度，200GB/月，1000Mbps。
+- VIP1 小流量：¥88/年，15GB/月，500Mbps。
+- 年付套餐 A：¥199/年，300GB/月，1000Mbps。
 
-**适合人群：**需要 IEPL、住宅 IP、TikTok 优化或新疆专项线路的用户。
+**适合人群：**想先免费试用，或者需要 Trojan、IPLC、流媒体与常见 AI 工具支持的用户。
 
-[![访问万达云官网](https://img.shields.io/badge/访问官网-立即注册-C4472D?style=for-the-badge)](https://link.wdyserver.com/register?code=lnkL7gDz)
+[![访问大哥云官网](https://img.shields.io/badge/访问官网-立即注册-C4472D?style=for-the-badge)](https://a03.dgy02.com/#/register?code=ObFRQjpi)
 
 ---
 
 <a id="miaomiao-cloud"></a>
 
-## 10. 秒秒云：低门槛与多档流量套餐
+## 12. 秒秒云：低门槛与多档流量套餐
 
 <img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/4d26fca1-6628-4b4e-b973-576a2fb94940" />
 
@@ -332,62 +391,6 @@ Now加速的线路、节点、客户端、支付方式和公开监测信息相�
 
 [![访问秒秒云官网](https://img.shields.io/badge/访问官网-立即注册-C4472D?style=for-the-badge)](https://dl2.mmy8.com/#/register?code=dUjEJXLh)
 
----
-
-<a id="shunyun"></a>
-
-## 11. 瞬云：ANYCAST 与原生 IP 不限时套餐
-
+<!-- 瞬云已退出当前榜单，原截图引用按要求保留：
 <img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/393817bf-3c3e-4137-b3a5-18a9dbe68f25" />
-
-
-- ANYCAST 高速节点
-- 原生 IP
-- 月付、年付与不限时套餐
-- Netflix、Disney+、ChatGPT 等支持记录
-
-瞬云提供三档常规月付、限时年付小包，以及 2000GB 和 5000GB 两档不限时流量。周期套餐使用主流国家 ANYCAST 节点，不限时套餐标注 1 倍率和原生 IP，并且不限制同时使用客户端数量。
-
-套餐注明不接受退款或不支持退换，限时年付套餐也可能随时下架。不限时套餐手动重置流量需要支付原价的 90%，购买前应确认是否确实需要重置功能。
-
-**代表套餐：**
-
-- 限时年付小包：¥99/年，59GB/月。
-- 行者：¥20/月，150GB/月。
-- 縱橫：¥36/月，300GB/月。
-- 凌霄：¥68/月，800GB/月。
-- 2000G 不限时：¥260/一次性，1 倍率、原生 IP。
-
-**适合人群：**需要原生 IP、ANYCAST、流媒体解锁或大容量不限时套餐的用户。
-
-[![访问瞬云官网](https://img.shields.io/badge/访问官网-立即注册-C4472D?style=for-the-badge)](https://ccc.jichang.best/#/register?code=JveBr3Dz)
-
----
-
-<a id="dage-cloud"></a>
-
-## 12. 大哥云：Trojan、IPLC 与免费试用
-
-<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/b5130ef6-5fad-4e61-b476-ab49955da0cb" />
-
-
-- 页面标注运营约 5 年
-- 提供免费试用
-- Trojan 协议与 IPLC 线路
-- 500Mbps 和 1000Mbps 套餐档位
-
-大哥云的公开资料标注运营约 5 年并提供免费试用，套餐覆盖月付、季付和年付。页面同时标注支持 IPLC、Netflix、YouTube 8K、ChatGPT、Claude 和 Gemini，适合希望先试用再决定是否购买的用户。
-
-当前没有收录不限时或一次性流量包。VIP1 年付套餐虽然总价较低，但每月只有 15GB，购买前需要确认流量是否足够。完整节点地区、设备数量和退款条件也应以下单页面为准。
-
-**代表套餐：**
-
-- 单月套餐 A：¥19.9/月，100GB/月，500Mbps。
-- 单月套餐 B：¥29.9/月，150GB/月，500Mbps。
-- 季付套餐 A：¥69/季度，200GB/月，1000Mbps。
-- VIP1 小流量：¥88/年，15GB/月，500Mbps。
-- 年付套餐 A：¥199/年，300GB/月，1000Mbps。
-
-**适合人群：**想先免费试用，或者需要 Trojan、IPLC、流媒体与常见 AI 工具支持的用户。
-
-[![访问大哥云官网](https://img.shields.io/badge/访问官网-立即注册-C4472D?style=for-the-badge)](https://a03.dgy02.com/#/register?code=ObFRQjpi)
+-->
