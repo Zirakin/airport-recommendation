@@ -118,7 +118,7 @@ WgetCloud 是当前的高端首选。它的个人套餐价格明显偏贵，基�
 
 **适合人群：** 预算充足、重视老牌服务、专线稳定性、全球节点、流媒体和 AI 工具支持，并且能够接受明显高于普通机场价格的用户。
 
-[![访问 WgetCloud 官网](https://img.shields.io/badge/访问官网-新用户85折-C4472D?style=for-the-badge)](https://invite.wgetcloud.ltd/auth/register?code=aPjuiy)
+[![访问 WgetCloud 官网](https://img.shields.io/badge/访问官网-新用户85折-C4472D?style=for-the-badge)](https://invite.wgetcloud.ltd/auth/register?code=fZ0Rsm)
 
 ---
 
