@@ -11,17 +11,17 @@ NodeRadar 整理了当前常见机场的套餐价格、流量、线路、设备�
 ## 省流推荐
 
 - **性价比首选：**[Flybit机场](#flybit)
-- **高端首选：**[WgetCloud](#wgetcloud)
-- **按量付费：**[Flybit机场](#flybit) / [飞鸟云](#feiniaoyun) / [极速云机场](#jisu-cloud) / [魔戒](#mojie)
+- **高端首选：**[WgetCloud](#wgetcloud) / [极客云](#jike-cloud)
+- **按量付费：**[Flybit机场](#flybit) / [飞鸟云](#feiniaoyun) / [魔戒](#mojie)
 
 ## 当前综合排名
 
 | 排名 | 服务 | 推荐指数 | 月付或体验起价 | 主要特点 |
 |---:|---|---:|---:|---|
 | 1 | [Flybit机场](#flybit) | 9.20 | ¥15 | IEPL 专线、月付与不限时套餐、不限设备 |
-| 2 | [飞鸟云](#feiniaoyun) | 9.12 | ¥1 | 低价周期套餐、按量流量包、Hysteria2 |
+| 2 | [极客云](#jike-cloud) | 9.12 | ¥19.99 | 速鹰系老牌分站、标准协议、IPLC 高档线路 |
 | 3 | [WgetCloud](#wgetcloud) | 9.08 | ¥99 | 老牌精品专线、价格很贵、新用户 85 折 |
-| 4 | [极速云机场](#jisu-cloud) | 9.06 | ¥15.99 | 中转与直连、大流量、流媒体与 AI 支持 |
+| 4 | [飞鸟云](#feiniaoyun) | 9.06 | ¥1 | 低价周期套餐、按量流量包、Hysteria2 |
 | 5 | [魔戒](#mojie) | 8.98 | ¥1 | 按量计费、不限时流量、无倍率 |
 | 6 | [CyberGuard机场](#cyberguard) | 8.92 | ¥32 | IEPL/BGP、月付与不限时、AI 与流媒体 |
 | 7 | [迅达 VPN](#xunda-vpn) | 8.82 | ¥15 | 多客户端、工单支持、基础使用稳定 |
@@ -33,7 +33,7 @@ NodeRadar 整理了当前常见机场的套餐价格、流量、线路、设备�
 
 ---
 
-<a id="flybit"></a>
+  <a id="flybit"></a>
 
 ## 1. Flybit机场：2026 性价比首选
 
@@ -59,39 +59,36 @@ Flybit机场目前排在综合榜第一，也是当前的性价比首选。它�
 
 **适合人群：** 希望用较低价格获得专线、需要多设备使用，或者希望月付与不限时套餐可以自由选择的用户。
 
-[![访问 Flybit机场官网](https://img.shields.io/badge/访问官网-立即注册-C4472D?style=for-the-badge)](https://1.flybit.network/#/register?code=CTBZgaIG)
+[![访问 Flybit机场官网](https://img.shields.io/badge/访问官网-立即注册-C4472D?style=for-the-badge)](https://fb.fastfastfast.buzz/#/register?code=0clljXHZ)
 
 ---
 
-<a id="feiniaoyun"></a>
+<a id="jike-cloud"></a>
 
-## 2. 飞鸟云：低价周期套餐与按量流量包
+## 2. 极客云：速鹰系老牌分站与高档 IPLC 线路
 
+<img width="1024" height="687" alt="image" src="https://github.com/user-attachments/assets/6a56428a-eed1-47b6-9330-0e8e8d6da6a1" />
 
-<img width="1024" height="375" alt="image" src="https://github.com/user-attachments/assets/4b9febb1-e3ba-428d-ae79-c38d7f03743b" />
+- 速鹰系老牌分站，资料显示 2020 年成立
+- SSR、V2ray 等标准订阅，支持常见第三方客户端
+- 国内中转与高档 IPLC 线路分层开放
+- 注册入口注册送 10G，活动与优惠以官网为准
 
-- 低价年付与月付套餐
-- 不限时按量流量包
-- Hysteria2 协议
-- 页面标注不限设备
+极客云（JikeCloud）是资料显示运营时间较长的速鹰系分站，主打标准协议订阅、国内中转和高档 IPLC 节点。套餐会按流量、设备数、速率和节点权限逐级开放，旗舰版 59.99 元/月提供 600GB、不限速并开放全部节点，适合重视运营成熟度、又希望使用高档线路的用户。
 
-飞鸟云同时提供按月重置的周期套餐和用完为止的不限时流量包，节点主要覆盖美国、日本、新加坡和台湾。它的价格门槛很低，适合预算有限、低频备用或者愿意自己研究客户端配置的用户。
-
-飞鸟云需要用户阅读文档并自行完成配置，不适合完全不愿意处理客户端设置的人。套餐页面同时注明购买后不退款，部分网络环境可能需要启用 IPv6，购买前应先确认自己的设备和网络条件。
+需要注意的是，入门和基础套餐存在速率及节点权限限制，流量会在套餐到期时清零；极客云与速鹰、桔子云、速云梯等属于同系服务，不建议互相作为灾备线路。
 
 **代表套餐：**
 
-- 传家宝 50G：¥12/年，50GB/月。
-- 传家宝 100G：¥24/年，100GB/月。
-- 月付 200G：¥10/月，200GB/月。
-- 月付 400G：¥15/月，400GB/月。
-- 不限时 200G：¥10/一次性，支持重复购买叠加。
-- 不限时 600G：¥20/一次性，流量用完为止。
+- 入门版：¥19.99/月，100GB，2 台设备，最高 60Mbps。
+- 基础版：¥29.99/月，200GB，3 台设备，最高 150Mbps。
+- 标准版：¥39.99/月，350GB，5 台设备，最高 300Mbps，IPLC 节点起步。
+- 旗舰版：¥59.99/月，600GB，8 台设备，不限速，全节点含 IPLC。
+- 旗舰版大流量：¥99.99/月，1200GB，10 台设备，不限速，全节点含 IPLC。
 
-**适合人群：** 预算很低、能够自行配置 Hysteria2、希望购买不限时流量包作为备用的用户。
+**适合人群：** 看重老牌运营记录、标准客户端兼容性和高档线路，并且能够接受不同套餐存在节点权限与速率分层的用户。
 
-[![访问飞鸟云官网](https://img.shields.io/badge/访问官网-立即注册-C4472D?style=for-the-badge)](https://feiniaoyun.xyz/#/register?code=F1BcowUV)
-
+[![访问极客云官网](https://img.shields.io/badge/访问官网-内置优惠码-C4472D?style=for-the-badge)](https://jikefind.net/auth/register?code=8hg0)
 ---
 
 <a id="wgetcloud"></a>
@@ -122,6 +119,37 @@ WgetCloud 是当前的高端首选。它的个人套餐价格明显偏贵，基�
 
 ---
 
+<a id="feiniaoyun"></a>
+
+## 4. 飞鸟云：低价周期套餐与按量流量包
+
+<img width="1024" height="375" alt="image" src="https://github.com/user-attachments/assets/4b9febb1-e3ba-428d-ae79-c38d7f03743b" />
+
+- 低价年付与月付套餐
+- 不限时按量流量包
+- Hysteria2 协议
+- 页面标注不限设备
+
+飞鸟云同时提供按月重置的周期套餐和用完为止的不限时流量包，节点主要覆盖美国、日本、新加坡和台湾。它的价格门槛很低，适合预算有限、低频备用或者愿意自己研究客户端配置的用户。
+
+飞鸟云需要用户阅读文档并自行完成配置，不适合完全不愿意处理客户端设置的人。套餐页面同时注明购买后不退款，部分网络环境可能需要启用 IPv6，购买前应先确认自己的设备和网络条件。
+
+**代表套餐：**
+
+- 传家宝 50G：¥12/年，50GB/月。
+- 传家宝 100G：¥24/年，100GB/月。
+- 月付 200G：¥10/月，200GB/月。
+- 月付 400G：¥15/月，400GB/月。
+- 不限时 200G：¥10/一次性，支持重复购买叠加。
+- 不限时 600G：¥20/一次性，流量用完为止。
+
+**适合人群：** 预算很低、能够自行配置 Hysteria2、希望购买不限时流量包作为备用的用户。
+
+[![访问飞鸟云官网](https://img.shields.io/badge/访问官网-立即注册-C4472D?style=for-the-badge)](https://feiniaoyun.xyz/#/register?code=F1BcowUV)
+
+---
+
+<!-- 极速云机场暂时下线，原图片与资料保留在此，恢复推荐时可直接取消注释。
 <a id="jisu-cloud"></a>
 
 ## 4. 极速云机场：优质量大
@@ -151,6 +179,8 @@ WgetCloud 是当前的高端首选。它的个人套餐价格明显偏贵，基�
 **适合人群：** 重视延迟、售后渠道、节点覆盖和大流量档位，并且能够理解节点倍率的用户。
 
 [![访问极速云机场官网](https://img.shields.io/badge/访问官网-立即注册-C4472D?style=for-the-badge)](https://qa.slnioaykrfm.com:8888/#/register?code=y739TBai)
+
+-->
 
 ---
 
