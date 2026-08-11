@@ -11,22 +11,22 @@ NodeRadar 整理了当前常见机场的套餐价格、流量、线路、设备�
 ## 省流推荐
 
 - **性价比首选：**[Flybit机场](#flybit)
+- **便宜量大：**[星辰云](#xingchen-cloud)
 - **高端首选：**[WgetCloud](#wgetcloud) / [极客云](#jike-cloud)
 - **按量付费：**[Flybit机场](#flybit) / [飞鸟云](#feiniaoyun) / [魔戒](#mojie)
 
 ## 当前综合排名
 
-
 | 排名 | 服务 | 推荐指数 | 月付或体验起价 | 主要特点 |
 |---:|---|---:|---:|---|
 | 1 | [Flybit机场](#flybit) | 9.20 | ¥15 | IEPL 专线、月付与不限时套餐、不限设备 |
 | 2 | [极客云](#jike-cloud) | 9.12 | ¥19.99 | 速鹰系老牌分站、标准协议、IPLC 高档线路 |
-| 3 | [WgetCloud](#wgetcloud) | 9.08 | ¥99 | 老牌精品专线、价格很贵、新用户 85 折 |
-| 4 | [飞鸟云](#feiniaoyun) | 9.06 | ¥1 | 低价周期套餐、按量流量包、Hysteria2 |
-| 5 | [魔戒](#mojie) | 8.98 | ¥1 | 按量计费、不限时流量、无倍率 |
-| 6 | [CyberGuard机场](#cyberguard) | 8.92 | ¥32 | IEPL/BGP、月付与不限时、AI 与流媒体 |
-| 7 | [迅达 VPN](#xunda-vpn) | 8.82 | ¥15 | 多客户端、工单支持、基础使用稳定 |
-| 8 | [万达云](#wanda-cloud) | 8.76 | ¥16.8 | IEPL、住宅 IP、多个专项套餐 |
+| 3 | [星辰云](#xingchen-cloud) | 9.10 | ¥8 | 最便宜量大、月付与不限时流量、IEPL 专线 |
+| 4 | [WgetCloud](#wgetcloud) | 9.08 | ¥99 | 老牌精品专线、价格很贵、新用户 85 折 |
+| 5 | [飞鸟云](#feiniaoyun) | 9.06 | ¥1 | 低价周期套餐、按量流量包、Hysteria2 |
+| 6 | [魔戒](#mojie) | 8.98 | ¥1 | 按量计费、不限时流量、无倍率 |
+| 7 | [CyberGuard机场](#cyberguard) | 8.92 | ¥32 | IEPL/BGP、月付与不限时、AI 与流媒体 |
+| 8 | [迅达 VPN](#xunda-vpn) | 8.82 | ¥15 | 多客户端、工单支持、基础使用稳定 |
 | 9 | [Now加速](#now-speed) | 8.70 | ¥10 | IEPL/CN2、多地区、常见客户端支持 |
 | 10 | [自由猫](#freecat) | 8.62 | ¥6 | 低价套餐、多地区、不限时流量包 |
 | 11 | [大哥云](#dage-cloud) | 8.48 | ¥19.9 | Trojan、IPLC、免费试用 |
@@ -73,7 +73,7 @@ Flybit机场目前排在综合榜第一，也是当前的性价比首选。它�
 - 速鹰系老牌分站，资料显示 2020 年成立
 - SSR、V2ray 等标准订阅，支持常见第三方客户端
 - 国内中转与高档 IPLC 线路分层开放
-- 注册入口注册送 10G，活动与优惠以官网为准
+- 注册链接已内置优惠码，活动与优惠以官网为准
 
 极客云（JikeCloud）是资料显示运营时间较长的速鹰系分站，主打标准协议订阅、国内中转和高档 IPLC 节点。套餐会按流量、设备数、速率和节点权限逐级开放，旗舰版 59.99 元/月提供 600GB、不限速并开放全部节点，适合重视运营成熟度、又希望使用高档线路的用户。
 
@@ -90,11 +90,43 @@ Flybit机场目前排在综合榜第一，也是当前的性价比首选。它�
 **适合人群：** 看重老牌运营记录、标准客户端兼容性和高档线路，并且能够接受不同套餐存在节点权限与速率分层的用户。
 
 [![访问极客云官网](https://img.shields.io/badge/访问官网-内置优惠码-C4472D?style=for-the-badge)](https://jikefind.net/auth/register?code=8hg0)
+
+---
+
+<a id="xingchen-cloud"></a>
+
+## 3. 星辰云：最便宜量大的月付选择
+
+<img width="1024" height="687" alt="image" src="https://github.com/user-attachments/assets/15d05a4d-9eed-4437-aa3d-bf63e47493a2" />
+
+- 8 元/月提供 80GB 流量
+- 9.9 元/月提供 100GB 流量且不限设备
+- 17 元起的月付档包含 IEPL 专线、原生 IP 和家宽 IP
+- 同时提供月付、季度、半年、年付和不限时流量包
+
+星辰云原名星辰VPN，本文统一使用“星辰云”这一名称。它的月付套餐从 8 元、80GB 起，9.9 元即可获得每月 100GB 且不限设备，是当前榜单中最便宜量大的选择之一；需要高档线路时，17 元标准版开始提供 IEPL 专线、原生 IP 和家宽 IP。
+
+需要注意的是，8 元初级版仅限 2 台设备、不提供客服，也不包含高端专线；公开节点、线路和解锁能力来自服务页面说明，购买前仍建议先用低价月付档测试本地网络表现。
+
+**代表套餐：**
+
+- 初级版：¥8/月，80GB/月，2 台设备，最高 100Mbps。
+- 入门版：¥9.9/月，100GB/月，不限设备，最高 200Mbps。
+- 标准版：¥17/月，200GB/月，不限设备，IEPL 专线，最高 300Mbps。
+- VIP版：¥30/月，450GB/月，不限设备，IEPL 专线，最高 400Mbps。
+- 至尊版：¥50/月，800GB/月，不限设备，IEPL 专线，最高 500Mbps。
+- 不限时流量-B版：¥98/一次性，300GB 不限时。
+- 不限时流量-C版：¥199/一次性，1000GB 不限时。
+
+**适合人群：** 预算较低、希望用较少月费获得较大流量，或者需要低价月付与不限时流量包自由选择的用户。
+
+[![访问星辰云官网](https://img.shields.io/badge/访问官网-立即注册-C4472D?style=for-the-badge)](https://c.kilxs.cn/?code=85pRyW98)
+
 ---
 
 <a id="wgetcloud"></a>
 
-## 3. WgetCloud：价格很贵，但老牌且特别好用
+## 4. WgetCloud：价格很贵，但老牌且特别好用
 
 <img width="1024" height="434" alt="image" src="https://github.com/user-attachments/assets/03ca39aa-d164-484b-9e73-96633d816774" />
 
@@ -122,7 +154,7 @@ WgetCloud 是当前的高端首选。它的个人套餐价格明显偏贵，基�
 
 <a id="feiniaoyun"></a>
 
-## 4. 飞鸟云：低价周期套餐与按量流量包
+## 5. 飞鸟云：低价周期套餐与按量流量包
 
 <img width="1024" height="375" alt="image" src="https://github.com/user-attachments/assets/4b9febb1-e3ba-428d-ae79-c38d7f03743b" />
 
@@ -187,7 +219,7 @@ WgetCloud 是当前的高端首选。它的个人套餐价格明显偏贵，基�
 
 <a id="mojie"></a>
 
-## 5. 魔戒：不限时按量付费首选之一
+## 6. 魔戒：不限时按量付费首选之一
 
 <img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/a6b83808-9b35-4316-b157-efe34a4c19ef" />
 
@@ -218,7 +250,7 @@ WgetCloud 是当前的高端首选。它的个人套餐价格明显偏贵，基�
 
 <a id="cyberguard"></a>
 
-## 6. CyberGuard机场：IEPL、BGP 与不限时套餐
+## 7. CyberGuard机场：IEPL、BGP 与不限时套餐
 
 <img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/a6e70c58-38c7-4bcf-a0ac-53f698115cfc" />
 
@@ -248,7 +280,7 @@ CyberGuard机场提供轻量、标准、高速和企业周期套餐，同时提�
 
 <a id="xunda-vpn"></a>
 
-## 7. 迅达 VPN：多客户端与基础售后支持
+## 8. 迅达 VPN：多客户端与基础售后支持
 
 <img width="1024" height="434" alt="image" src="https://github.com/user-attachments/assets/41cbe297-4602-44a0-bb41-11d25eab925d" />
 
@@ -273,33 +305,9 @@ CyberGuard机场提供轻量、标准、高速和企业周期套餐，同时提�
 
 ---
 
-<a id="wanda-cloud"></a>
-
-## 8. 万达云：常规专线与专项套餐
-
+<!-- 万达云已移出当前榜单，原图片保留：
 <img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/4369b351-2b71-46fd-a238-dceef3c81565" />
-
-
-- 中转与 IEPL 专线
-- 住宅 IP 和流媒体支持
-- 新疆 IPv6 专项套餐
-- TikTok 优化与长效流量方案
-
-万达云提供 150GB 至 1200GB 的常规月付套餐，另有新疆 IPv6、TikTok 优化和长效流量方案。不同套餐在线路、设备数量和适用场景方面差异较大，适合需求比较明确、愿意逐项核对套餐条件的用户。
-
-当前 30 天参考记录为可用率 100%、平均延迟约 46ms、丢包率 0%。线路和解锁参数主要来自服务页面，不能代表所有地区的实际体验。
-
-**代表套餐：**
-
-- 150G 全中转：¥16.8/月，150GB，5 台设备。
-- 300G 全专线：¥28.8/月，300GB，10 台设备。
-- 600G 全专线：¥48/月，600GB，50 台设备。
-- 1200G 全专线：¥92.8/月，1200GB，50 台设备。
-- 新疆专用：¥36/月，300GB，IPv6 专属中转。
-
-**适合人群：** 需要 IEPL、住宅 IP、TikTok 优化或新疆专项线路的用户。
-
-[![访问万达云官网](https://img.shields.io/badge/访问官网-立即注册-C4472D?style=for-the-badge)](https://link.wdyserver.com/register?code=lnkL7gDz)
+-->
 
 ---
 
