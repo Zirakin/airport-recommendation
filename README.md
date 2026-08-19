@@ -60,7 +60,7 @@ Flybit机场目前排在综合榜第一，也是当前的性价比首选。它�
 
 **适合人群：** 希望用较低价格获得专线、需要多设备使用，或者希望月付与不限时套餐可以自由选择的用户。
 
-[![访问 Flybit机场官网](https://img.shields.io/badge/访问官网-立即注册-C4472D?style=for-the-badge)](https://goflybit.com/#/register?code=0clljXHZ)
+[![访问 Flybit机场官网](https://img.shields.io/badge/访问官网-立即注册-C4472D?style=for-the-badge)](https://fb.fastfastfast.buzz/#/register?code=0clljXHZ)
 
 ---
 
