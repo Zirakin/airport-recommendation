@@ -13,7 +13,7 @@ NodeRadar 整理了当前常见机场的套餐价格、流量、线路、设备�
 - **性价比首选：**[Flybit机场](#flybit)
 - **便宜量大：**[星辰云](#xingchen-cloud)
 - **高端首选：**[WgetCloud](#wgetcloud) / [极客云](#jike-cloud)
-- **按量付费：**[Flybit机场](#flybit) / [飞鸟云](#feiniaoyun) / [魔戒](#mojie)
+- **按量付费：**[Flybit机场](#flybit) / [魔戒](#mojie)
 
 ## 当前综合排名
 
