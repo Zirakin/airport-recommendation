@@ -13,7 +13,7 @@ NodeRadar 整理了当前常见机场的套餐价格、流量、线路、设备�
 - **性价比首选：**[Flybit机场](#flybit)
 - **便宜量大：**[星辰云](#xingchen-cloud)
 - **高端首选：**[WgetCloud](#wgetcloud) / [极客云](#jike-cloud)
-- **按量付费：**[Flybit机场](#flybit) / [魔戒](#mojie)
+- **按量付费：**[Flybit机场](#flybit) / [扬帆云](#yangfanyun) / [魔戒](#mojie)
 
 ## 当前综合排名
 
@@ -23,7 +23,7 @@ NodeRadar 整理了当前常见机场的套餐价格、流量、线路、设备�
 | 2 | [极客云](#jike-cloud) | 9.12 | ¥19.99 | 速鹰系老牌分站、标准协议、IPLC 高档线路 |
 | 3 | [星辰云](#xingchen-cloud) | 9.10 | ¥8 | 最便宜量大、月付与不限时流量、IEPL 专线 |
 | 4 | [WgetCloud](#wgetcloud) | 9.08 | ¥99 | 老牌精品专线、价格很贵、新用户 85 折 |
-| 5 | [飞鸟云](#feiniaoyun) | 9.06 | ¥1 | 低价周期套餐、按量流量包、Hysteria2 |
+| 5 | [扬帆云](#yangfanyun) | 9.02 | ¥19.99 | V2Ray、IPLC专线、周期与不限时方案 |
 | 6 | [魔戒](#mojie) | 8.98 | ¥1 | 按量计费、不限时流量、无倍率 |
 | 7 | [CyberGuard机场](#cyberguard) | 8.92 | ¥32 | IEPL/BGP、月付与不限时、AI 与流媒体 |
 | 8 | [迅达 VPN](#xunda-vpn) | 8.82 | ¥15 | 多客户端、工单支持、基础使用稳定 |
@@ -152,33 +152,32 @@ WgetCloud 是当前的高端首选。它的个人套餐价格明显偏贵，基�
 
 ---
 
-<a id="feiniaoyun"></a>
+<a id="yangfanyun"></a>
 
-## 5. 飞鸟云：低价周期套餐与按量流量包
+## 5. 扬帆云：V2Ray/IPLC 专线与按量方案
 
-<img width="1024" height="375" alt="image" src="https://github.com/user-attachments/assets/4b9febb1-e3ba-428d-ae79-c38d7f03743b" />
+<img width="1024" height="434" alt="image" src="https://github.com/user-attachments/assets/68c21839-388a-4907-bbf6-a05889b0e7c3" />
 
-- 低价年付与月付套餐
-- 不限时按量流量包
-- Hysteria2 协议
-- 页面标注不限设备
+- V2Ray 通用协议
+- 隧道中转与 IPLC 高速专线
+- 周期套餐与不限时流量包
+- 支持 Clash、Shadowrocket、小火箭
 
-飞鸟云同时提供按月重置的周期套餐和用完为止的不限时流量包，节点主要覆盖美国、日本、新加坡和台湾。它的价格门槛很低，适合预算有限、低频备用或者愿意自己研究客户端配置的用户。
+扬帆云采用通用 V2Ray 协议，节点使用隧道中转与 IPLC 高速专线，支持 Clash、Shadowrocket、小火箭等客户端，并提供周期套餐与不限时流量包，适合日常使用、流媒体和备用场景。
 
-飞鸟云需要用户阅读文档并自行完成配置，不适合完全不愿意处理客户端设置的人。套餐页面同时注明购买后不退款，部分网络环境可能需要启用 IPv6，购买前应先确认自己的设备和网络条件。
+扬帆云支持 4K、AI 和流媒体场景；年付套餐可使用优惠码 **VPNOOL** 享 7 折。套餐、节点和不限时流量包的具体规则可能调整，购买前请以官网页面为准。
 
 **代表套餐：**
 
-- 传家宝 50G：¥12/年，50GB/月。
-- 传家宝 100G：¥24/年，100GB/月。
-- 月付 200G：¥10/月，200GB/月。
-- 月付 400G：¥15/月，400GB/月。
-- 不限时 200G：¥10/一次性，支持重复购买叠加。
-- 不限时 600G：¥20/一次性，流量用完为止。
+- LV1：¥19.99/月，100GB/周期，2 台设备。
+- LV2：¥29.99/月，200GB/周期，3 台设备。
+- LV3：¥39.99/月，400GB/周期，部分 IEPL 专线。
+- LV4：¥49.99/月，700GB/周期，全 IEPL 专线。
+- 旗舰版：¥88.99/月，1.2TB/周期，不限速，8 台设备。
 
-**适合人群：** 预算很低、能够自行配置 Hysteria2、希望购买不限时流量包作为备用的用户。
+**适合人群：** 需要通用客户端、专线线路和周期/按量方案并存的用户。年付优惠码为 **VPNOOL**，具体活动以官网为准。
 
-[![访问飞鸟云官网](https://img.shields.io/badge/访问官网-立即注册-C4472D?style=for-the-badge)](https://feiniaoyun.xyz/#/register?code=F1BcowUV)
+[![访问扬帆云官网](https://img.shields.io/badge/访问官网-优惠码VPNOOL-C4472D?style=for-the-badge)](https://ml.yfqz1.net/register?code=mzd1CVsd)
 
 ---
 
