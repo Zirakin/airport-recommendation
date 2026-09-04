@@ -10,6 +10,8 @@
 
 请选择对应的操作系统，进入相应配置文章：
 
+[![客户端下载](https://img.shields.io/badge/客户端下载-NodeRadar-2F7CF6?style=for-the-badge)](https://noderadar.online/clients/)
+
 ### **[iOS 配置教程](./ios-configuration.md)**
 
 ### **[Android 配置教程](./android-configuration.md)**
