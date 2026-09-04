@@ -305,9 +305,6 @@ CyberGuard机场提供轻量、标准、高速和企业周期套餐，同时提�
 
 ---
 
-<!-- 万达云已移出当前榜单，原图片保留：
-<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/4369b351-2b71-46fd-a238-dceef3c81565" />
--->
 
 ---
 
@@ -430,6 +427,3 @@ Now加速的线路、节点、客户端、支付方式和公开监测信息相�
 
 [![访问秒秒云官网](https://img.shields.io/badge/访问官网-立即注册-C4472D?style=for-the-badge)](https://dl2.mmy8.com/#/register?code=dUjEJXLh)
 
-<!-- 瞬云已退出当前榜单，原截图引用按要求保留：
-<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/393817bf-3c3e-4137-b3a5-18a9dbe68f25" />
--->
