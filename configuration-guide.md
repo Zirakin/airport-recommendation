@@ -12,8 +12,8 @@
 
 [![客户端下载](https://img.shields.io/badge/客户端下载-NodeRadar-2F7CF6?style=for-the-badge)](https://noderadar.online/clients/)
 
-### **[iOS 配置教程](./ios-configuration.md)**
+### **[iOS 配置教程](https://noderadar.online/tutorials/ios/)**
 
-### **[Android 配置教程](./android-configuration.md)**
+### **[Android 配置教程](https://noderadar.online/tutorials/android/)**
 
-### **[Windows / macOS 配置教程](./desktop-configuration.md)**
+### **[Windows / macOS 配置教程](https://noderadar.online/tutorials/desktop/)**
