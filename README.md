@@ -7,9 +7,8 @@
 ## 建议在线浏览，因为GitHub不允许新开外链，在线浏览允许，方便多个窗口对比，并且在线浏览有详细的配置教程，点击下方的 **noderadar.online**（先按需求购买套餐，然后再下载客户端完成配置）
 [![在线浏览 NodeRadar](https://img.shields.io/badge/在线浏览-NodeRadar.online-C4472D?style=for-the-badge)](https://noderadar.online) [![配置教程](https://img.shields.io/badge/配置教程-客户端配置-2F7CF6?style=for-the-badge)](./configuration-guide.md)
 
-NodeRadar 整理了当前常见机场的套餐价格、流量、线路、设备数量、流媒体与 AI 工具支持情况，并按照当前资料给出综合排名。机场通常需要先注册并购买订阅，再将订阅链接导入 Clash、Clash Mi、Shadowrocket、Stash、Surge、v2rayN 等第三方客户端。
 ## 注册服务后请记好**账号和密码**，**建议收藏 https://noderadar.online/ 或本仓库**，防止域名或访问入口发生变动。
-<img width="800" alt="NodeRadar 机场套餐与线路对比" src="https://github.com/user-attachments/assets/675b7539-bee7-48aa-a838-0169be6db1d6" />
+<img width="600" alt="NodeRadar 机场套餐与线路对比" src="https://github.com/user-attachments/assets/675b7539-bee7-48aa-a838-0169be6db1d6" />
 
 
 
@@ -18,7 +17,7 @@ NodeRadar 整理了当前常见机场的套餐价格、流量、线路、设备�
 - **性价比首选：**[Flybit机场](#flybit)
 - **便宜量大：**[星辰云](#xingchen-cloud)
 - **高端首选：**[WgetCloud](#wgetcloud) / [极客云](#jike-cloud)
-- **按量付费：**[Flybit机场](#flybit) / [扬帆云](#yangfanyun) / [魔戒](#mojie)
+- **按量付费：**[Flybit机场](#flybit) / [魔戒](#mojie)
 
 ## 当前综合排名
 
