@@ -1,6 +1,6 @@
 # 2026 年 9 月最新稳定高速机场推荐与科学上网梯子、VPN测评指南
 
-本项目整理常见机场服务的套餐、线路、流量和客户端支持情况，并提供 Clash、Shadowrocket、v2rayN、sing-box 等mihomo内核客户端的配置说明，方便在购买前进行横向比较。
+本项目整理常见机场服务的套餐、线路、流量和客户端支持情况，并提供 Clash、Shadowrocket、v2rayN、sing-box等mihomo内核客户端的配置说明，方便在购买前进行横向比较。
 
 内容仅供技术交流和购买前参考，价格、线路与服务状态可能变化，请以服务商公开页面为准。本项目不提供 VPN 客户端、节点或网络服务。
 
@@ -50,7 +50,7 @@
 - 不限制同时使用设备数量
 - 支持常见流媒体与 AI 工具
 
-[![访问 Flybit机场官网](https://img.shields.io/badge/访问官网-立即注册-C4472D?style=for-the-badge)](https://www.fastfastfast.buzz/#/register?code=VnSIZ14l)
+[![访问 Flybit机场官网](https://img.shields.io/badge/访问官网-立即注册-C4472D?style=for-the-badge)](https://www.fastfastfast.buzz/#/register?code=0clljXHZ)
 
 Flybit机场目前排在综合榜第一，也是当前的性价比首选。它同时提供月付套餐和一次性不限时流量包，15 元即可购买每月 128GB 的月付套餐。公开页面标注使用 IEPL 专线、不限设备，并支持常见流媒体与 ChatGPT，适合第一次购买、日常使用以及需要备用流量包的用户。
 
