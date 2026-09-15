@@ -2,7 +2,7 @@
 
 本项目整理常见机场服务的套餐、线路、流量和客户端支持情况，并提供 Clash、Shadowrocket、v2rayN、sing-box等mihomo内核客户端的配置说明，方便在购买前进行横向比较。
 
-内容仅供技术交流和购买前参考，价格、线路与服务状态可能变化，请以服务商公开页面为准。本项目不提供 VPN 客户端、节点或网络服务。
+内容仅供技术交流和购买前参考，价格、线路与服务状态可能变化，请以服务商公开页面为准。本项目不提供任何 VPN 客户端、节点或网络服务。
 
 ## 建议在线浏览，因为GitHub不允许新开外链，在线浏览允许，方便多个窗口对比，并且在线浏览有详细的配置教程，点击下方的 **noderadar.online**（先按需求购买套餐，然后再下载客户端完成配置）
 [![在线浏览 NodeRadar](https://img.shields.io/badge/在线浏览-NodeRadar.online-C4472D?style=for-the-badge)](https://noderadar.online) [![配置教程](https://img.shields.io/badge/配置教程-客户端配置-2F7CF6?style=for-the-badge)](./configuration-guide.md)
