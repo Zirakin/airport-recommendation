@@ -2,7 +2,7 @@
 
 <table>
 <tr>
-<td width="42%" valign="middle"><img width="360" alt="NodeRadar 机场套餐与线路对比" src="https://github.com/user-attachments/assets/675b7539-bee7-48aa-a838-0169be6db1d6" /></td>
+<td width="46%" valign="middle"><img width="460" alt="NodeRadar 机场套餐与线路对比" src="https://github.com/user-attachments/assets/675b7539-bee7-48aa-a838-0169be6db1d6" /></td>
 <td valign="middle">
 <h2>建议在线浏览</h2>
 <a href="https://noderadar.online"><img src="https://img.shields.io/badge/在线浏览-NodeRadar.online-C4472D?style=for-the-badge" alt="在线浏览 NodeRadar" /></a><br />
