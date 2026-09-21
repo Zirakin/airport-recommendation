@@ -1,14 +1,13 @@
 # 2026 年 9 月最新稳定高速机场推荐与科学上网梯子、VPN测评指南
 
-本项目整理常见机场服务的套餐、线路、流量和客户端支持情况，并提供 Clash、Shadowrocket、v2rayN、sing-box等mihomo内核客户端的配置说明，方便在购买前进行横向比较。
+本项目整理常见机场服务的套餐、线路、流量和客户端支持情况，并提供 Clash、Shadowrocket、v2rayN、sing-box 等客户端的配置说明，方便购买前比较。
 
-内容仅供技术交流和购买前参考，价格、线路与服务状态可能变化，请以服务商公开页面为准。本项目不提供任何 VPN 客户端、节点或网络服务，请遵循地方法律。
+## 建议在线浏览
 
-## 建议在线浏览，因为GitHub不允许新开外链，在线浏览允许，方便多个窗口对比，并且在线浏览有详细的配置教程，点击下方的 **noderadar.online**（先按需求购买套餐，然后再下载客户端完成配置）
+在线版包含完整榜单和配置教程；请先按需求购买套餐，再下载客户端完成配置。
 [![在线浏览 NodeRadar](https://img.shields.io/badge/在线浏览-NodeRadar.online-C4472D?style=for-the-badge)](https://noderadar.online) [![配置教程](https://img.shields.io/badge/配置教程-客户端配置-2F7CF6?style=for-the-badge)](./configuration-guide.md)
 
 ## 注册服务后请记好**账号和密码**，**建议收藏 https://noderadar.online/ 或本仓库**，防止域名或访问入口发生变动。
-<img width="600" alt="NodeRadar 机场套餐与线路对比" src="https://github.com/user-attachments/assets/675b7539-bee7-48aa-a838-0169be6db1d6" />
 
 
 
@@ -425,3 +424,7 @@ Now加速的线路、节点、客户端、支付方式和公开监测信息相�
 <!-- 瞬云已退出当前榜单，原截图引用按要求保留：
 <img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/393817bf-3c3e-4137-b3a5-18a9dbe68f25" />
 -->
+
+---
+
+**免责声明：** 本项目内容仅供技术交流和购买前参考，价格、线路与服务状态可能变化，请以服务商公开页面为准。本项目不提供 VPN 客户端、节点或网络服务，请遵循当地法律法规。
