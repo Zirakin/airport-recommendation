@@ -1,13 +1,16 @@
 # 2026 年 9 月最新稳定高速机场推荐与科学上网梯子、VPN测评指南
 
-本项目整理常见机场服务的套餐、线路、流量和客户端支持情况，并提供 Clash、Shadowrocket、v2rayN、sing-box 等客户端的配置说明，方便购买前比较。
-
-## 建议在线浏览
-
-在线版包含完整榜单和配置教程；请先按需求购买套餐，再下载客户端完成配置。
-[![在线浏览 NodeRadar](https://img.shields.io/badge/在线浏览-NodeRadar.online-C4472D?style=for-the-badge)](https://noderadar.online) [![配置教程](https://img.shields.io/badge/配置教程-客户端配置-2F7CF6?style=for-the-badge)](./configuration-guide.md)
-
-## 注册服务后请记好**账号和密码**，**建议收藏 https://noderadar.online/ 或本仓库**，防止域名或访问入口发生变动。
+<table>
+<tr>
+<td width="42%" valign="middle"><img width="360" alt="NodeRadar 机场套餐与线路对比" src="https://github.com/user-attachments/assets/675b7539-bee7-48aa-a838-0169be6db1d6" /></td>
+<td valign="middle">
+<h2>建议在线浏览</h2>
+<a href="https://noderadar.online"><img src="https://img.shields.io/badge/在线浏览-NodeRadar.online-C4472D?style=for-the-badge" alt="在线浏览 NodeRadar" /></a><br />
+<a href="./configuration-guide.md"><img src="https://img.shields.io/badge/配置教程-客户端配置-2F7CF6?style=for-the-badge" alt="配置教程" /></a>
+<p>注册后请记好账号密码，并收藏本站或本仓库。</p>
+</td>
+</tr>
+</table>
 
 
 
