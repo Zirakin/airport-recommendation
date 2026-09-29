@@ -8,7 +8,7 @@
 <h2>建议在线浏览</h2>
 <a href="https://noderadar.online"><img src="https://img.shields.io/badge/在线浏览-NodeRadar.online-C4472D?style=for-the-badge" alt="在线浏览 NodeRadar" /></a><br />
 <a href="./configuration-guide.md"><img src="https://img.shields.io/badge/配置教程-客户端配置-2F7CF6?style=for-the-badge" alt="配置教程" /></a>
-<p>注册后请记好账号密码，并收藏本站或本仓库。</p>
+<p>注册后请记好账号密码，并收藏本站或本仓库，防止后续机场域名发生变化。</p>
 </td>
 </tr>
 </table>
