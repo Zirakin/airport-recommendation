@@ -32,6 +32,10 @@
 >
 > 📌 **建议收藏 [本仓库](https://github.com/Zirakin/airport-recommendation) 或 [noderadar.online](https://noderadar.online/)**，机场域名变更时，便于查找更新后的入口。
 
+<a id="chatgpt-plus"></a>
+
+[![ChatGPT Plus 充值指南](https://img.shields.io/badge/ChatGPT代充，112元/月，30天质保-C4472D?style=flat-square&logo=github&logoColor=white)](https://github.com/Zirakin/chatgpt-daichong)
+
 ---
 
 <a id="service-details"></a>
@@ -506,6 +510,7 @@ A1 套餐节点较少，也不赠送低倍率线路，主要适合轻量使用�
 ## 🔄 更新与反馈
 
 - **2026-10-02 · 文案与结构更新：** 推荐和榜单前置，移除网站预览与各服务的重复资料说明；补充计费周期、常规按量套餐、选购指南、配置入口、FAQ 与评分说明。
+- **2026-10-02 · 相关指南入口：** 添加 ChatGPT Plus 充值指南小按钮，详细介绍集中在独立仓库。
 - **服务资料：** 使用已收录的公开资料；套餐库存、活动和节点状态请在购买前核对官网。
 
 发现价格变化、官网失效或有可复核的使用记录，欢迎按 [贡献说明](./CONTRIBUTING.md) 提供服务名称、页面链接、日期和截图。
@@ -520,4 +525,4 @@ A1 套餐节点较少，也不赠送低倍率线路，主要适合轻量使用�
 
 推荐指数为 **10 分制编辑评分**，价格与服务内容以官网为准。[评分说明](#methodology)
 
-🔎 [服务详情](#service-details) · 🧭 [选购指南](#buying-guide) · 📱 [配置教程](#setup-guide) · ❓ [常见问题](#faq)
+🔎 [服务详情](#service-details) · 🧭 [选购指南](#buying-guide) · 📱 [配置教程](#setup-guide) · 🤖 [ChatGPT Plus](#chatgpt-plus) · ❓ [常见问题](#faq)
