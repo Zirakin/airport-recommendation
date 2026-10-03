@@ -32,9 +32,6 @@
 >
 > 📌 **建议收藏 [本仓库](https://github.com/Zirakin/airport-recommendation) 或 [noderadar.online](https://noderadar.online/)**，机场域名变更时，便于查找更新后的入口。
 
-<a id="chatgpt-plus"></a>
-
-[![ChatGPT Plus 充值指南](https://img.shields.io/badge/ChatGPT代充，112元/月，30天质保-C4472D?style=flat-square&logo=github&logoColor=white)](https://github.com/Zirakin/chatgpt-daichong)
 
 ---
 
